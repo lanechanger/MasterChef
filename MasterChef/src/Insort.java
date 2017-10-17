@@ -1,7 +1,7 @@
 /* https://www.codechef.com/problems/INTEST
  * Practice --> Beginner --> Enormous Input Test
  */
-public class Main {
+public class Insort {
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		java.io.BufferedReader reader = new java.io.BufferedReader (new java.io.InputStreamReader (System.in));
