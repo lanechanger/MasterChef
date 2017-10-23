@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 import java.text.NumberFormat;
 import java.text.DecimalFormat;
 
-public class Main {
+public class Hs08test {
 	public final static double fee = 0.5; 
 	
 	public static void main (String[] args) throws java.lang.Exception
