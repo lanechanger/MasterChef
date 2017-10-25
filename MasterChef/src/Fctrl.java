@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 /* https://www.codechef.com/problems/FCTRL
  * Practice --> Beginner --> Factorial
  */
-public class Main {
+public class Fctrl {
 	/* Found this solution which is pretty useful
 	 * http://www.purplemath.com/modules/factzero.htm
 	 * where you keep integer dividing by 5 until you get a result that's < 5 and keep track of the results and sum them all
