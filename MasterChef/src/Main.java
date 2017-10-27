@@ -1,10 +1,9 @@
 import java.util.Scanner;
-import java.lang.Exception;
 /* https://www.codechef.com/problems/MUFFINS3
  * Practice --> Beginner --> Packaging Cupcakes
  */
-public class Main {
-	public static void main (String[] args) throws Exception
+class Main {
+	public static void main (String[] args)
 	{
 		Scanner inputs = new Scanner (System.in);
 		int T = inputs.nextInt();
